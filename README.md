@@ -18,7 +18,7 @@ Programming languages i would like to learn.
 | Language | Description |
 | --- | --- |
 | C++ | I want to learn C++ because it's mainly used in the gaming industry and one of my dream jobs is too work at Naughty Dog as a AI Programmer or any other programming job :) |
-| Kotlin | I want to learn Kotlin because it making apps for Android must really fun and looks like a good  challenge. |
+| Kotlin | I want to learn Kotlin because it must be really cool making apps for Android |
 
 What im working on now.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
