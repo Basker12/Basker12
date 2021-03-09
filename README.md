@@ -24,7 +24,6 @@ What im working on now.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Projects | Description |
 | --- | --- |
-| Discord Bot | At the moment my main priority is my discord bot, named Weenur Pod. It's a simple bot which can play 8ball with you, find somebody's ID. The discord bot still isn't finished but im gonna be working on him slowly. If you want to see the code for the discord bot, visit my profile and click on the discord-bot repo. |
 | Neural network | My next project after the discord bot is any neural network using the tensorflow libary. The reason i want to learn this is because it will help in my college course and also because it's incredible how you can train a computer too recognise something that you trained it too. I'm gonna train the neural network to see if can tell apart a car and a bus. |
 
 Completed Projects.
