@@ -26,6 +26,9 @@ What im working on now.
 | --- | --- |
 | Neural network | My next project after the discord bot is any neural network using the tensorflow libary. The reason i want to learn this is because it will help in my college course and also because it's incredible how you can train a computer too recognise something that you trained it too. I'm gonna train the neural network to see if can tell apart the eight different series of BMW cars. |
 | Continuing learning Java | I want to continuing learning Java |
+| Email Administration Application | Check my repo for details |
+
+^ None of these projects are in order.
 
 Completed Projects.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
