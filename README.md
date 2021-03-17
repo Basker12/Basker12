@@ -6,12 +6,12 @@ Check out my repos.
 
 [![HitCount](http://hits.dwyl.com/Basker12/Basker12.svg)](http://hits.dwyl.com/Basker12/Basker12)
 
-Programming language(s) i know.
+Programming languages i know.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Language | Description |
 | --- | --- |
 | Python 🐍 | Python is my main programming language. It's very good for beginners but it can be very advanced with making nueral networks. |
-| Java ☕ | I know very little of Java, but from what i have seen im gonna enjoy it a lot. It looks like a great challenge. |
+| Java ☕ | I know a bit of Java, but from what i have seen im gonna enjoy it a lot. It looks like a great challenge. |
 
 Programming languages i would like to learn.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -26,7 +26,7 @@ What im working on now.
 | --- | --- |
 | Neural network | My next project after the discord bot is any neural network using the tensorflow libary. The reason i want to learn this is because it will help in my college course and also because it's incredible how you can train a computer too recognise something that you trained it too. I'm gonna train the neural network to see if can tell apart the eight different series of BMW cars. |
 | Continuing learning Java | I want to continuing learning Java |
-| Email Administration Application | Check my repo for details |
+| Email Administration Application | This creates a brand new email and secure password with validation checks for a new employee joining a company, this code is written in Python and will also be written in Java. |
 
 ^ None of these projects are in order.
 
