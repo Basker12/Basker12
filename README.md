@@ -6,7 +6,7 @@ Check out my repos.
 
 [![HitCount](http://hits.dwyl.com/Basker12/Basker12.svg)](http://hits.dwyl.com/Basker12/Basker12)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Basker12/Basker12/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basker12)](https://github.com/Basker12/Basker12/edit/main/README.md)
 
 Programming languages i know.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
