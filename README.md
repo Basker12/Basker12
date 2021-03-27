@@ -18,15 +18,16 @@ Programming languages i would like to learn.
 | Language | Description |
 | --- | --- |
 | C++ | I want to learn C++ because it's mainly used in the gaming industry and one of my dream jobs is too work at Naughty Dog as a AI Programmer or any other programming job :) |
-| Kotlin | I want to learn Kotlin because it must be really cool making apps for Android |
+| HTML and CSS | HTML and CSS are technically are not languages but i feel like knowing how to make a good looking website can very usefull. |
+| JavaScript | JavaScript is a necessity when you want to get into web dev, without it there wouldnt such functional websites. |
 
 What im working on now.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Projects | Description |
 | --- | --- |
-| Neural network | My next project after the discord bot is any neural network using the tensorflow libary. The reason i want to learn this is because it will help in my college course and also because it's incredible how you can train a computer too recognise something that you trained it too. I'm gonna train the neural network to see if can tell apart the eight different series of BMW cars. |
-| Continuing learning Java | I want to continuing learning Java |
+| Learn intermediate Java | Now that i feel like i have the basics of Java down, it's time to learn the intermediate part of Java. |
 | Email Administration Application | This creates a brand new email and secure password with validation checks for a new employee joining a company, this code is written in Python and will also be written in Java. |
+| First website | As im planning to learn HTML and CSS i need to make my first website |
 
 ^ None of these projects are in order.
 
@@ -34,6 +35,6 @@ Completed Projects.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Projects |
 | --- |
-| Dice Game | 
 | Vector functions |
 | Discord bot |
+| Email Administration Application |
