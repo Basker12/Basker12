@@ -26,7 +26,7 @@ What im working on now.
 | Projects | Description |
 | --- | --- |
 | Learn intermediate Java | Now that i feel like i have the basics of Java down, it's time to learn the intermediate part of Java. |
-| Email Administration Application | This creates a brand new email and secure password with validation checks for a new employee joining a company, this code is written in Python and will also be written in Java. |
+| Email Administration Application | Currently working on the Java version of this project, Python version is done. |
 | First website | As im planning to learn HTML and CSS i need to make my first website |
 
 ^ None of these projects are in order.
