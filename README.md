@@ -4,7 +4,8 @@ My main programming language is Python.
 
 Check out my repos.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basker12&layout=compact)](https://github.com/Basker12/github-readme-stats)
+   <img align="" height="137px" weight="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basker12&langs_count=8&&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite"/>
+</a>
 
 Programming languages i know.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
