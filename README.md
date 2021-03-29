@@ -5,6 +5,7 @@ My main programming language is Python.
 Check out my repos.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basker12)](https://github.com/Basker12/Basker12/edit/main/README.md)
+<width="500px">
 
 Programming languages i know.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
