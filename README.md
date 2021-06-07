@@ -19,8 +19,6 @@ Programming languages i would like to learn.
 | Language | Description |
 | --- | --- |
 | C++ | I want to learn C++ because it's mainly used in the gaming industry and one of my dream jobs is too work at Naughty Dog as a AI Programmer or any other programming job :) |
-| HTML and CSS | HTML and CSS are technically are not languages but i feel like knowing how to make a good looking website can very usefull. |
-| JavaScript | JavaScript is a necessity when you want to get into web dev, without it there wouldnt such functional websites. |
 
 What im working on now.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
