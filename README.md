@@ -2,7 +2,7 @@
 
 Check out my repos.
 
-   <img align="" height="137px" weight="500px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basker12&langs_count=8&&hide_title=true&hide_border=true&layout=compact&bg_color=0,EEAECA,94BBE9&theme=graywhite"/>
+   <img align="" height="137px" weight="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basker12&langs_count=8&&hide_title=true&hide_border=true&layout=compact&bg_color=0,EEAECA,94BBE9&theme=graywhite"/>
 </a>
 
 Programming languages i know.
