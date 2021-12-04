@@ -1,9 +1,12 @@
-### Hi there, im Basker12 👋
+<div align="center">
+   <h1>Hi there, im Basker12 👋</h1>
+   <p>Welcome to my GitHub! Here you're able to find all my projects.</p>
+   <br/>
+</div>
 
-Check out my repos.
-
+<div align="center">
    <img align="" height="137px" weight="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basker12&langs_count=8&&hide_title=true&hide_border=true&layout=compact&bg_color=0,EEAECA,94BBE9&theme=graywhite"/>
-</a>
+</div>
 
 Programming languages i know.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
