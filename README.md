@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
+
 <div align="center">
    <h1>Hi there, im Basker12 👋</h1>
    <p>Welcome to my GitHub! Here you're able to find all my projects.</p>
@@ -12,7 +14,9 @@ Programming languages i know.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Language | Description |
 | --- | --- |
-| Python 🐍 | Python is my main programming language. It's very good for beginners but it can be very advanced with making nueral networks. |
+| <span class="material-icons-outlined">
+html
+</span> | Python is my main programming language. It's very good for beginners but it can be very advanced with making nueral networks. |
 | C# | As of recently i have started to learn C# due to college, however i'm very much enjoying it. |
 
 Programming languages i would like to learn.
