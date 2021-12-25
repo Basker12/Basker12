@@ -7,9 +7,9 @@
    <p>
    &#60;&#33;&#45;&#45; WeenurPod (Discord Bot)  &#45;&#45;&#62;
       
-   &#60;&#33;&#45;&#45; To-Do List (Using ASP.NET CORE) &#45;&#45;&#62; 
+   &#60;&#33;&#45;&#45; <a href="https://github.com/Madmegsox1/ASP.NET">To-Do List (Using ASP.NET CORE) </a> &#45;&#45;&#62; 
       
-   &#60;&#33;&#45;&#45; PokeDex (Using Python and many lib) &#45;&#45;&#62; 
+   &#60;&#33;&#45;&#45; <a href="https://github.com/adamclement-exe/pokemonDashboard"> PokeDex </a>  &#45;&#45;&#62; 
       
    &#60;&#33;&#45;&#45; 0x0001 Website &#45;&#45;&#62; 
    </p>
