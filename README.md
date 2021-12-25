@@ -20,7 +20,8 @@
 
    <h3>Languages / Technologies i'm learning at the moment➕ </h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="https://lleastri.sirv.com/android.svg" alt="Android Development" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="https://lleastri.sirv.com/android.svg" alt="Android Development" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailWind CSS" width="50" height="50"/>
+
 
    <h3>IDE </h3>
    <img src="https://lleastri.sirv.com/rider_logo_300x300.png" width="50" height="50" alt="Jetbrains Rider" /> <img src="https://lleastri.sirv.com/PyCharm_Icon.svg.png" width="50" height="50" alt="Jetbrains Pycharm" /> <img src="https://lleastri.sirv.com/IntelliJ_IDEA_Icon.svg.png" width="50" height="50" alt="Jetbrains IntelliJ" /> <img src="https://lleastri.sirv.com/WebStorm_Icon.svg.png" width="50" height="50" alt="Jetbrains Webstrom" />
