@@ -1,6 +1,6 @@
 <div align = "center">
 <h2>Hi there, im Basker12 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-   <h2>Welcome to my GitHub! I'm an aspiring Front-End Engineer. Please see below my projects :) </h2>   
+   <h2>Welcome to my GitHub! I'm an aspiring Software Engineer. Please see below my projects :) </h2>   
    
    
    <h3>Project i've worked on 🪛</h3>
