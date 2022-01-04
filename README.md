@@ -5,14 +5,14 @@
    
    <h3>Project i've worked on 🪛</h3>
    <p>
-   &#60;&#33;&#45;&#45; WeenurPod (Discord Bot)  &#45;&#45;&#62;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+   &#60;&#33;&#45;&#45; WeenurPod (Discord Bot)  &#45;&#45;&#62;
       
-   &#60;&#33;&#45;&#45; <a href="https://github.com/Madmegsox1/ASP.NET" target="_blank">To-Do List (Using ASP.NET CORE) </a> &#45;&#45;&#62; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="30" height="30"/>
+   &#60;&#33;&#45;&#45; <a href="https://github.com/Madmegsox1/ASP.NET" target="_blank">To-Do List (Using ASP.NET CORE) </a> &#45;&#45;&#62; 
 
       
-   &#60;&#33;&#45;&#45; <a href="https://github.com/adamclement-exe/pokemonDashboard" target="_blank"> PokeDex </a>  &#45;&#45;&#62; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/> <img src="https://lleastri.sirv.com/cl.png" width="30" height="30" alt="" />
+   &#60;&#33;&#45;&#45; <a href="https://github.com/adamclement-exe/pokemonDashboard" target="_blank"> PokeDex </a>  &#45;&#45;&#62; 
       
-   &#60;&#33;&#45;&#45; 0x0001 Website &#45;&#45;&#62; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+   &#60;&#33;&#45;&#45; 0x0001 Website &#45;&#45;&#62; 
    </p>
    <h2></h2>
 
