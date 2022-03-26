@@ -10,9 +10,9 @@
    &#60;&#33;&#45;&#45; <a href="https://github.com/Madmegsox1/ASP.NET" target="_blank">To-Do List (Using ASP.NET CORE) </a> &#45;&#45;&#62; 
 
       
-   &#60;&#33;&#45;&#45; <a href="https://github.com/adamclement-exe/pokemonDashboard" target="_blank"> PokeDex </a>  &#45;&#45;&#62; 
+   &#60;&#33;&#45;&#45; <a href="https://github.com/adamclement-exe/pokemonDashboard" target="_blank"> PokeDex </a> &#45;&#45;&#62; 
       
-   &#60;&#33;&#45;&#45; 0x0001 Website &#45;&#45;&#62; 
+   &#60;&#33;&#45;&#45; <a href="https://github.com/2D-Mesh-Plane/0x0001.cc" target="_blank"> 0x0001 Website </a> &#45;&#45;&#62; 
    </p>
    <h2></h2>
 
