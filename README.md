@@ -1,9 +1,9 @@
 <div align = "center">
 <h2>Hi there, im Basker12 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-   <h2>Welcome to my GitHub! I'm an aspiring Junior Front-End Developer. Please see below my projects :) </h2>   
+   <h2>Welcome to my GitHub! I'm an Junior Front-End Developer for Overair Digital. Please see below my projects :) </h2>   
    
    
-   <h3>Project i've worked on 🪛</h3>
+   <h3>Projects i've worked on 🪛</h3>
    <p>
    &#60;&#33;&#45;&#45; WeenurPod (Discord Bot)  &#45;&#45;&#62;
       
