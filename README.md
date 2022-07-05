@@ -5,7 +5,10 @@
    
    <h3>Projects i've worked on 🪛</h3>
    <p>
-      &#60;&#33;&#45;&#45; <a href="http://overair-digital.herokuapp.com" target="_blank">Overair:Digital </a> &#45;&#45;&#62; 
+   
+   &#60;&#33;&#45;&#45; <a href="https://gifttech.org.uk" target="_blank">GiftTech </a> &#45;&#45;&#62; 
+   
+   &#60;&#33;&#45;&#45; <a href="https://overair-digital.herokuapp.com" target="_blank">Overair: Digital </a> &#45;&#45;&#62; 
       
    &#60;&#33;&#45;&#45; <a href="https://github.com/Madmegsox1/ASP.NET" target="_blank">To-Do List (Using ASP.NET CORE) </a> &#45;&#45;&#62; 
 
@@ -14,7 +17,6 @@
       
    &#60;&#33;&#45;&#45; <a href="https://github.com/2D-Mesh-Plane/0x0001.cc" target="_blank"> 0x0001 Website </a> &#45;&#45;&#62; 
       
-   &#60;&#33;&#45;&#45; WeenurPod (Discord Bot)  &#45;&#45;&#62;   
    </p>
    <h2></h2>
 
